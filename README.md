@@ -1,2 +1,2 @@
 # chocolate.github.io
-https://janetchung0402.github.io/chocolate.github.io/template_crc/
+https://janetchung0402.github.io/test.github.io/template_crc/
