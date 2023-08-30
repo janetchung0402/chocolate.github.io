@@ -1,2 +1,2 @@
 # readme
-https://janetchung0402.github.io/test.github.io/template_crc/
+https://janetchung0402.github.io/test/template_crc/
